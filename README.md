@@ -22,9 +22,9 @@
 긍/부정, 전체 단어 빈도수 그래프
 > 
 
-<img width="60%" src="https://user-images.githubusercontent.com/64563859/208648250-8542ab28-b967-4e4a-8680-3fd977a1d48e.png"/>
+<center><img width="60%" src="https://user-images.githubusercontent.com/64563859/208648250-8542ab28-b967-4e4a-8680-3fd977a1d48e.png"/></center>
 
-<img width="60%" src="https://user-images.githubusercontent.com/64563859/208648259-2f3d4465-b387-474c-ab11-a271305104f8.png"/>
+<center><img width="60%" src="https://user-images.githubusercontent.com/64563859/208648259-2f3d4465-b387-474c-ab11-a271305104f8.png"/></center>
 
 
 ## 사용 기술
